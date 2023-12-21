@@ -53,6 +53,3 @@ requests>=2.25.1
 
 # Import pandas library (optional)
 pandas>=1.2.4
-
-# Import json
-json>=2.0.9
