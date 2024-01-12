@@ -12,11 +12,6 @@ jupyter-core==5.3.0
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.2.0
 
-# Add SSL support (optional)
-jupyterlite-certifi==2021.5.30
-jupyterlite-cryptography==3.4.7
-jupyterlite-pyopenssl==20.0.1
-
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.2.1
 
@@ -63,3 +58,6 @@ requests>=2.31.0
 
 # Import pandas library (optional)
 pandas>=1.2.4
+
+# Import to_js library (optional)
+to_js>=0.1.0
