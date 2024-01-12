@@ -58,8 +58,3 @@ requests>=2.31.0
 
 # Import pandas library (optional)
 pandas>=1.2.4
-
-# add SSL dependencies
-ssl>=1.16
-cryptography>=3.4.7
-pyOpenSSL>=20.0.1
