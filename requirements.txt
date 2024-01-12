@@ -58,6 +58,3 @@ requests>=2.31.0
 
 # Import pandas library (optional)
 pandas>=1.2.4
-
-# Import SSL related libraries (optional)
-ssl
